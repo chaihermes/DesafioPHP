@@ -1,4 +1,46 @@
+/*CSS Cadastro de Produto*/
 table, th, td{
     border-bottom: 1px solid lightgrey;
 }
 
+.formulario{
+    background-color: #eaeaea;
+    margin-top: 1rem;
+}
+
+.botao{
+    margin-left: 18rem;
+}
+
+.titulo{
+    font-size: 40px;
+}
+
+
+/*CSS Produtos Cadastrados*/
+.cadastro{
+    background-color: #eaeaea;
+}
+
+.botaoCadastro{
+    border: 1px solid darkgrey;
+    margin-bottom: 2rem;
+    margin-left: 5rem;
+    margin-top: 1rem;
+}
+
+.ancoraCadastrados{
+    color: black;
+}
+
+.destaqueProduto{
+    width: 75%;
+    margin-left: 5rem;
+    background-color: #eaeaea;
+    border: none;
+}
+
+.imgProduto{
+    margin: auto;
+    display: block;
+}
